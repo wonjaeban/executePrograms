@@ -6,4 +6,5 @@ start "" "C:\Users\wonjae0709\AppData\Roaming\Microsoft\Windows\Start Menu\Progr
 start "" "C:\Users\wonjae0709\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Evernote" & ^
 code  C:\Users\wonjae0709\Documents\pesserver & ^
 code  C:\Users\wonjae0709\Documents\pesadmin & ^
-code  C:\Users\wonjae0709\Documents\pes
+code  C:\Users\wonjae0709\Documents\pes & ^
+code  C:\Users\wonjae0709\Documents\compassTalk
